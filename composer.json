@@ -20,17 +20,17 @@
     "ext-dom": "*",
     "guzzlehttp/guzzle": "~7",
     "ezyang/htmlpurifier": "*",
-    "austinhyde/iniparser": "dev-master",
+    "austinhyde/iniparser": "@dev",
     "phpmailer/phpmailer": "6.*",
     "firebase/php-jwt": "*",
-    "ideatic/dump": "dev-master",
+    "ideatic/dump": "@dev",
     "ideatic/tinyfier": "*",
-    "ideatic/jquery_fm": "dev-master",
+    "ideatic/jquery_fm": "@dev",
     "ideatic/cldr": "dev-main",
-    "ideatic/html-parser": "dev-master",
-    "ideatic/l10n": "dev-master"
+    "ideatic/html-parser": "@dev",
+    "ideatic/l10n": "@dev"
   },
   "require-dev": {
-    "ideatic/eureka_profiler": "dev-master"
+    "ideatic/eureka_profiler": "@dev"
   }
 }
