@@ -27,7 +27,7 @@
     "ideatic/tinyfier": "*",
     "ideatic/jquery_fm": "dev-master",
     "ideatic/cldr": "dev-main",
-    "ideatic/html-parser": "dev-master",
+    "ideatic/html-parser": "dev-main",
     "ideatic/l10n": "dev-master"
   },
   "require-dev": {
