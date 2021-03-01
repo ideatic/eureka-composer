@@ -6,6 +6,7 @@
       "email": "contacto@ideatic.net"
     }
   ],
+
   "config": {
     "minimum-stability": "dev",
     "prefer-stable": true,
