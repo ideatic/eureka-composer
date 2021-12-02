@@ -27,7 +27,7 @@
     "ideatic/tinyfier": "*",
     "ideatic/jquery_fm": "dev-master",
     "ideatic/cldr": "dev-main",
-    "ideatic/l10n": "dev-master"
+    "ideatic/l10n": "dev-main"
   },
   "require-dev": {
     "ideatic/eureka_profiler": "dev-master"
