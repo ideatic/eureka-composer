@@ -6,13 +6,13 @@
       "email": "contacto@ideatic.net"
     }
   ],
-
   "config": {
     "minimum-stability": "dev",
     "prefer-stable": true,
     "prepend-autoloader": false
   },
   "require": {
+    "php": "^8.1",
     "ext-openssl": "*",
     "ext-mbstring": "*",
     "ext-json": "*",

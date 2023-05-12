@@ -1,0 +1,12 @@
+# General rules
+.idea
+nbproject/
+/vendor/
+composer.phar
+
+# OS crap
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+/apiDoc.php
+/.phpunit.result.cache
