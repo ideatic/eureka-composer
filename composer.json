@@ -11,6 +11,8 @@
     "prefer-stable": true,
     "prepend-autoloader": false
   },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "php": "^8.1",
     "ext-openssl": "*",
@@ -21,7 +23,7 @@
     "guzzlehttp/guzzle": "~7",
     "ezyang/htmlpurifier": "*",
     "austinhyde/iniparser": "dev-master",
-    "phpmailer/phpmailer": "6.*",
+    "phpmailer/phpmailer": "7.*",
     "firebase/php-jwt": "*",
     "ideatic/dump": "dev-master",
     "ideatic/tinyfier": "*",
